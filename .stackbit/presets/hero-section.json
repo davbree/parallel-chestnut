@@ -3,7 +3,7 @@
     "presets": [
         {
             "label": "My Hero Section 1.",
-            "thumbnail": "thumbnails/my-thumbnail.png",
+            "thumbnail": "logo.png",
             "data": {
                 "variant": "variant-a",
                 "title": "My Title!!!-"
